@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Local environment and secrets
+.env*
+!.env.example
+
+# Logs and test output
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+coverage/
+
+# Operating system / editor files
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
